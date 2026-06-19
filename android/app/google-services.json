@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7642374609",
+    "project_id": "malabarcampus-b36a8",
+    "storage_bucket": "malabarcampus-b36a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7642374609:android:1776df6ed2a531292000f0",
+        "android_client_info": {
+          "package_name": "com.malabarcampus.malayalalearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEi04ySnZEmk71Pu7uQx8A39lNbB215E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
